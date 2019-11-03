@@ -1,0 +1,5 @@
+./case.submit
+
+mkdir -p /home/cesm/archive/cases
+
+cp -R /home/cesm/cases/hc6l5 /home/cesm/archive/cases/.
