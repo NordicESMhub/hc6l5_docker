@@ -6,7 +6,7 @@ CESM docker container for HIST_CAM60_CLM50%BGC_CICE%PRES_DOCN%DOM_MOSART_CISM2%N
 - Input dataset is stored and available in zenodo.
 
 
-## Running F1850 with docker
+## Running hc6l5  with docker
 
 Make sure inputdata is available (it won't download it as we suppose it is already on disk). 
 - The location of the inputdata is `/opt/uio/inputdata` 
