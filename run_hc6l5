@@ -1,3 +1,7 @@
+./xmlchange STOP_N=1
+
+./xmlchange STOP_OPTION=ndays
+
 ./case.submit
 
 mkdir -p /home/cesm/archive/cases
