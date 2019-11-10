@@ -5,7 +5,7 @@ CESM docker container for HIST_CAM60_CLM50%BGC_CICE%PRES_DOCN%DOM_MOSART_CISM2%N
 
 - Input dataset is stored and available in zenodo.
 
-**TBD**: once transfered is finalized, we need to update this section!
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3534199.svg)](https://doi.org/10.5281/zenodo.3534199)
 
 
 ## Running hc6l5  with docker
