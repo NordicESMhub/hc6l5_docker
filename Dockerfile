@@ -29,7 +29,7 @@ RUN cd $HOME \
     && sed -i.bak "s/'checkout'/'checkout', '--trust-server-cert', '--non-interactive'/" ./manage_externals/manic/repository_svn.py \
     && ./manage_externals/checkout_externals
 
-ENV CESM_PES=18
+ENV CESM_PES=12
 
 RUN sed -i -e "s/\$CESM_PES/$CESM_PES/g" $HOME/.cime/config_machines.xml \
     && cd $HOME/CESM/cime/scripts \
